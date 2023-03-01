@@ -1,4 +1,4 @@
-# augmented-reality
+# augmented-reality https://smart-som.github.io/augmented-reality/ 
  This project is my first step at augmented-reality. 
 	
  To use, after loding the site put your camera over the maker.
